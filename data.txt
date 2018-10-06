@@ -469,7 +469,7 @@ attraction
 attractive
 (adj) hút, thu hút, có duyên, lôi cuốn
 audience
-(n) thính, khan giả
+(n) thính, khn giả
 aunt
 (n) cô, dì
 automatic
@@ -822,6 +822,20 @@ category
 (n) hạng, loại; phạm trù
 cause
 (n) (v) nguyên nhân, nguyên do; gây ra, gây nên
+cavalier
+(n) cuộc diễu hành, đoàn người cưỡi ngựa
+cavalry
+(n) kỵ binh
+caviare
+(n) trứng cá muối
+cavil
+(v) cãi biếng, cãi vặt
+caw
+(n) tiếng quạ kêu
+cavity
+(n) lỗ hổng
+cayman
+(n) cá sấu nam mỹ
 cease
 (v) dừng, ngừng, ngớt, thôi, hết, tạnh
 ceiling
@@ -832,18 +846,78 @@ celebration
 (n) sự kỷ niệm, lễ kỷ niệm; sự tán dương, sự ca tụng
 cell
 (n) ô, ngăn
+cello
+(n) đàn violong, xelo
+cellular
+(adj) tế bào, cấu tạo bằng tế bào
+cellulose
+(n) chất xenluloza
+celt
+(n) người celt
+cement
+(n) xi măng, bột hàn răng
+cemetery
+(n) nghĩa địa, nghĩa trang
+censor
+(n) nhân viên kiểm duyệt
+censure
+(n) sự phê bình, sự khiển trách, phê bình, chỉ trích
+census
+(n) sự điều tra
 cent
 (n) đồng xu
 centimeter
 (n) xen ti met
 century
 (n) thế kỷ
+cereal
+(adj) ngũ cốc
 ceremony
 (n) nghi thức, nghi lễ
 certain
 (adj),pro(n) chắc chắn
 certificate
 (n) giấy chứng nhận, bằng, chứng chỉ
+certify
+(v) chứng nhận, chứng thực
+cerulean
+(adj) xanh da trời
+cervix
+(n) cổ, cổ họng
+cession
+(n) sự nhường nhịn, sự để lại
+cesspit
+(n) hố đựng nước thải
+chafe
+(v) làm trầy, chà dát
+chafer
+(n) con bọ da
+chaff
+(n) trấu, vỏ, răm rạ băm nhỏ
+chaffer
+(v) cò kè, mặc cả
+chagrin
+(n) sự chán nản, sự muộn phiền
+chain
+(n) dây xích, dãy chuỗi
+chair
+(n) ghế, ghế dựa,ghế chủ tọa, ghế chủ tịch
+chairman
+(n) chủ tịch
+chaise
+(n) xe  ngựa không mui
+chalet
+(n) nhà ván, nhà gỗ, biệt thự nhỏ
+chalice
+(n) đài hoa, cốc rượu lễ
+chalk
+(n) đá phấn, phấn viết
+chamfer
+(v) vạt cạnh, xoi đường
+champ
+(v) gặm, nhai rào rạo
+champion
+(n) nhà vô địch, nhà quán quân
 cigarette
 (n) điếu thuốc lá
 cinema
@@ -1288,14 +1362,28 @@ data
 (n) số liệu, dữ liệu
 date
 (n) (v) ngày, kỳ, kỳ hạn, thời kỳ
+datum
+(n) dữ liệu, số liệu
+dauber
+(n) họa sĩ vẽ lem nhem, họa sĩ tồi
 daughter
 (n) con gái
+daunt
+(v) đe dọa, dọa nạt, dọa dẫm
+davy
+(n) đèn an toàn của thợ mỏ
+daw
+(n) quạ gáy xám
+dawn
+(n) bình minh, rạng đông
 day
 (n) ngày, ban ngày
 dead
 (adj) chết, tắt
 deaf
 (adj) điếc, làm thinh, làm ngơ
+deacon
+(n) thầy trờ tế
 dear
 (adj) thân, thân yêu, thân mến; kính thưa, thưa
 death
@@ -1402,6 +1490,16 @@ device
 (n) kế sách; thiết bị, dụng cụ, máy móc
 devote
 (v) hiến dâng, dành hết cho
+devotion
+(n) sự hết lòng, sự hiến dâng, lòng mộ đạo
+devour
+(v) ăn ngấu nghiến, đọc ngấu nghiến, tàn phá
+devout
+(adj) thành mộ, kính đạo
+dew
+(adj) sương, sự tươi mát
+dewlap
+(n) yếm bò
 diagram
 (n) biểu đồ
 diamond
@@ -1488,12 +1586,40 @@ division
 (n) sự chia, sự phân chia, sự phân loại
 divorce
 (n) (v) sự ly dị
+divvy
+(n) tiền lãi cổ phần
+dizzy
+(adj) hoa mắt, choáng váng, chóng mặt, làm hoa mắt, làm chóng mặt
+do
+(v) làm, thực hiện
+dock
+(n) vũng tàu đậu, bến tàu, nơi sửa chữa tàu
 doctor
 (n) bác sĩ y khoa, tiến sĩ
 document
 (n) văn kiện, tài liệu, tư liệu
+dodge
+(v) chạy nhanh về bên, tìm cách lẩn tránh, sự lẩn tránh
+doe
+(n) hươu cái, nai cái, thỏ cái
+dog
+(n) chó, chó săn
+doily
+(n) khăn lót
+dole
+(n) sự bố thí, tiền trợ cấp
+doll
+(n) con búp bê, người phụ nữ trẻ đẹp
 dollar
 (n) đô la Mỹ
+dolman
+(n) tảng đá lớn
+dolour
+(n) nỗi đau buồn thương, nỗi đau thương
+dolphin
+(n) cá heo có mỏ
+domain
+(n) đất đai, tài sản, lãnh thổ, lãnh vực
 domestic
 (adj) vật nuôi trong nhà, (thuộc) nội trợ, quốc nội
 dominate
@@ -1586,6 +1712,16 @@ easily
 (adv) dễ dàng
 eat
 (v) ăn
+eaves
+(n) mái hiên nhà
+ebb
+(n) nước triều xuống, thời kỳ tàn tạ
+ebony
+(n) gỗ mun, đen như gỗ mun
+ebullience
+(n) sự sôi sục, sôi nổi, bồng bột
+ecdysis
+(n) sự lột, da lột
 economic
 (adj) (thuộc) Kinh tế
 economy
@@ -1910,6 +2046,14 @@ extreme
 (adj) (n) vô cùng, khắc nghiệt, quá khích, cực đoan; sự quá khích
 extremely
 (adv) vô cùng, cực độ
+fable
+(n) truyện ngụ ngôn
+fabric
+(n) công trình xây dựng, dàn, khung, kết cấu
+fabulist
+(n) người kể chuyện ngụ ngôn, thần thoại, người hay nói dối
+facasde
+(n) mặt tiền, bề ngoài, vẻ ngoài
 face
 (n) (v) mặt, thể diện; đương đầu, đối phó, đối mặt
 facility
@@ -1920,6 +2064,16 @@ factor
 (n) nhân tố
 factory
 (n) nhà máy, xí nghiệp, xưởng
+fad
+(n) khái niệm kỳ cục, sự dở hơi
+faddish
+(adj) theo mốt thời thượng
+fade
+(v) héo đi, tàn mất, mất dần, biến mất
+faff
+(v) cuống quýt lên, trở nên lúng túng, bối rối   
+faggot
+(n) món gan bỏ lò, bó củi, bó que sắt
 fail
 (v) sai, thất bại
 failure
@@ -2184,6 +2338,24 @@ freshly
 (adv) tươi mát, khỏe khoắn
 fridge
 (n) tủ lạnh
+fully
+(adv) đầy đủ, hoàn toàn
+fumble
+(v) dò dẫm, sờ soạng, sự dò dẫm
+fume
+(n) khói, hơi khói, hơi bốc, nổi đóa
+funk
+(n) sự kinh sợ, sự khiếp sợ, sợ hãi
+furbish
+(v) đánh bóng, làm mới lại, tân trang
+furl
+(v) cuộn lại, bị cuốn lại
+furry
+(adj) bằng da lông thú, có lót da lông thú
+fury
+(n) sự giận dữ, sự phẫn nộ
+fuss
+(n) sự ồn ào, sự om sòm
 make friends with
 kết bạn với
 friendly
@@ -2322,6 +2494,16 @@ glue
 (n) (v) keo, hồ; gắn lại, dán bằng keo, hồ
 gram
 (n) đậu xanh
+granary
+(n) kho thóc, vựa lúa
+grand
+(adj) hùng vĩ, uy nghi, vĩ đại, cao quý, cao thượng.
+grant
+(v) cho, ban, thừa nhận, công nhận
+grape
+(n) quả nho
+graph
+(n) đồ thị, vẽ đồ thị
 go down
 đi xuống
 go up
@@ -2406,8 +2588,34 @@ guide
 (n) (v) điều chỉ dẫn, người hướng dẫn; dẫn đường, chỉ đường
 guilty
 (adj) có tội, phạm tội, tội lỗi
+guitar
+(n) đàn ghita
+gulf
+(n) vịnh, hố sâu
+gum
+(n) chất gôm, keo
+gummy
+(adj) không có răng
 gun
 (n) súng
+gunman
+(n) kẻ cướp có súng
+gunner
+(n) pháo thủ
+gunny
+(n) vải đay, vải cói
+gunshot
+(n) phát súng, tầm súng, tầm bắn
+gush
+(n) sự phun ra, sự vọt ra, sự bộc lộ tràn trề
+gust
+(n) cơn gió mạnh, cơn mưa rào
+gut
+(n) ruột
+gym
+(n) môn thể dục
+gyves
+(n) xiềng, xích, gông
 guy
 (n) bù nhìn, anh chàng, gã
 habit
@@ -2562,10 +2770,24 @@ hurry
 (v) (n) sự vội vàng, sự gấp rút
 in a hurry
 vội vàng, hối hả, gấp rút
-'hʌri
+huri
 (v) làm bị thương, gây thiệt hại
 husband
 (n) người chồng
+hush
+(v) làm cho im đi, sự im lặng
+husk
+(n) vỏ khô, vỏ, trấu
+huss
+(n) cá mập loại nhỏ
+hussy
+(n) đứa con gái hư hỏng, đứa con gái trơ tráo
+hut
+(n) túp lều, nhà ở tạm thời
+hydra
+(v) cái khó trừ tiệt, con thủy tức
+hydrate
+(n) loại chất hóa học
 ice
 (n) băng, nước đá
 idea
@@ -2580,6 +2802,10 @@ identity
 (n) cá tính, nét nhận dạng; tính đồng nhất, giống hệt
 ignore
 (v) phớt lờ, tỏ ra không biết đến
+ignite
+(v) đốt cháy, nhóm lửa, bắt lửa, bốc lửa
+iguana
+(n) thằn lằn lớn Nam Mỹ
 ill
 (adj) ốm
 illegal
@@ -2828,8 +3054,12 @@ island
 (n) /´ailənd/ hòn đảo
 issue
 (n) (v) sự phát ra, sự phát sinh; phát hành, đưa ra
+itch
+(n) sự ngứa, bệnh ngứa, rất mong muốn
 item
 (n) tin tức; khoả(n)., mó(n).., tiết mục
+ivy
+(n) cây trường xuân
 jacket
 (n) áo vét
 jam
