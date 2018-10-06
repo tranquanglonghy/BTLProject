@@ -262,20 +262,122 @@ altogether
 (adv) hoàn toàn, hầu như; nói chung
 always
 (adv) luôn luôn
+amalgam
+(n) sữ hỗn hống, sự pha hỗn hợp
+amalgamate
+(n) hỗn hợp hóa, trộn, pha trộn
+amass
+(v) chất đống, tích lũy, cóp nhặt
+amateur
+(n) tài tử, không chuyên nghiệp
+amatory
+(adj) thuộc về nhục dục
 amaze
 (v) làm ngạc nhiên, làm sửng sốt
+amazonian
+(adj) thuộc bộ lạc amazon
+amber
+(n) hổ phách, màu hổ phách
+ambergris
+(n) long diên hương
+ambience
+(n) hoàn cảnh, môi trường
+ambient
+(adj) bao quanh, ở xung quanh
+ambiguity
+(n) sự mơ hồ
+ambiguous
+(adj) tối nghĩa, không rõ ràng, mơ hồ
+ambit
+(n) phạm vi, lãnh vực, ranh giới
 ambition
 (n) hoài bão, khát vọng
 ambulance
 (n) xe cứu thương, xe cấp cứu
+amenable
+(adj) tuân theo, vâng theo, dễ bảo, thuần phục
+amend
+(v) bổ sung, sửa đổi
+amends
+(n) đền bù, bồi thường
+amenity
+(n) tính nhã nhặn, tính hòa nhã
+american
+(adj) Châu mỹ
+amethyst
+(n) thạch anh tím
+amiable
+(adj) nhã nhặn, dễ thương, tử tế
+amid
+(prep) giữa, ở giữa
+amidships
+(adv) ở giữa tàu
+amino
+(n) amin
+amiss
+(adj) không đúng lúc, sai hỏng, xấu, bậy
+amity
+(n) tình hữu nghĩ, tình bạn, tình bằng hữu
+amixis
+(n) sự không (giao) phối
+ammeter
+(n) ampe kế
+ammo
+(n) lý lẽ, sự kiện
+ammonite
+(n) con cúc
+amnesia
+(n) chứng quên, chứng mất trí nhớ
+amnesty
+(n) sự ân xá
+amnion
+(n) màng nước ối
+amok
+(adv) điên, cuồng lên
 among
 (prep) giữa, ở giữa
+amoral
+(adj) không luân lý, phi luân lý
 amount
 (n) (v) số lượng, số nhiều; lên tới (money)
+amour
+(n) chuyện tình, chuyện yêu đương
+ampere
+(n) am-pe, đơn vị đo dòng điện
+ampersand
+(n) ký hiệu
+amphibian
+(n) động vật lưỡng cư
+amphora
+(n) cổ hy lạp
+ample
+(adj) rộng, lụng thụng, nhiều, phong phú, dư dật
+amplifier
+(n) máy khuếch đại, bộ khuếch đại
+ampoule
+(n) ống thuốc tiêm
+amusement
+(n) sự vui chơi, trò giải trí
 amuse
 (v) làm cho vui, thích, làm buồn cười,thích thú
 analysis
 (n) sự phân tích
+analgesia
+(n) thuốc giảm đau
+analogous
+(adj) tương tự, giống nhau
+analogy
+(n) sự tương tự, sự giống nhau
+analyse
+(v) phân tích, giải tích, quan sát
+analyst
+(n) người phân tích, nhà tâm lý học
+anarchy
+(n) tình trạng hỗn loạn, tình trạng vô chính phủ
+anatomist
+(n) khoa giải phẫu, thuật mổ xẻ
+ancestor
+(n) ông bà, tổ tiên.
 ancient
 (adj) xưa, cổ
 and
