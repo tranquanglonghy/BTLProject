@@ -494,8 +494,66 @@ awful
 (adj) oai nghiêm, dễ sợ
 awkward
 (adj) vụng về, lung túng
+babble
+(v) nói nhiều, nói lảm nhảm, nói bép xép
+babe
+(n) em bé,  cô gái xinh xắn
+babel
+(n) sự ồn ào, lộn xộn,cảnh tượng hỗn độn
+baboon
+(n) khỉ đầu chó
+baboonery
+(n) trò khỉ, chuyện khỉ
+baby
+(n) đứa trẻ mới sinh, người tính trẻ con
+baby boom
+(n) sự gia tăng nhất thời sinh đẻ
+baby buggy
+(n) xe có nôi để đẩy trẻ con
+baby grand
+(n) đàn dương cầm nhỏ
+babyish
+(adj) tính trẻ nít, giống trẻ nít
+babysit
+(v) trông coi trẻ nhỏ để lấy tiền công
+babysister
+(n) người trông coi trẻ khi ba mẹ vắng nhà
+baccarat
+(n) trò chơi baccarat
+bacchanal
+(n) bữa chè chén say sưa, người theo đạo của tửu thần Bắc cút
+bacchant
+(n) tu sĩ hay tín đồ của bắc cút
+baccy
+(n) thuốc lá
+bachelor
+(n) người chưa vợ, người có bằng cử nhân
+bachelor girl 
+(n) cô gái độc thân
+bacillus
+(n) vi khuẩn hình que
 back
 (n)adj., (adv)., (v) lưng, về phía sau, trở lại
+backache
+(n) bệnh đau xương sống, bệnh đau lưng
+back bite
+(v) nói xấu sau lưng
+backbiting
+(n) sự nói xấu sau lưng
+back boiler
+(n) thùng đun nấu đặt phía sau bếp
+backchat
+(n) lời nói xấc xược, cãi lại
+backcloth
+(n) phòng, hậu cảnh
+backcomb
+(v) chải tóc lật ngược lên
+backdate
+(v) làm cho có giá trị hồi tố
+back door
+(n) phương thức bí mật hay khôn khéo, của hậu, của sau
+back drop
+(n) màn phông cuối sân khấu
 background
 (n) phía sau; nền
 backward
@@ -504,28 +562,158 @@ bacteria
 (n) vi khuẩn
 bad
 (adj) xấu, tồi
+bad breath
+(n) hơi thở thối
+bad debt
+(n) nợ không thể thu hồi lại
+baddy
+(n) tên côn đồ trong truyện hay trong phim ảnh
+badge
+(n) huy hiệu, phù hiệu, quân hàm
+badger
+(n) con lửng, con nhím, làm phiền, quấy rầy
+badinage
+(n) sự đùa cợt, sự đùa bỡn
+bad lot
+(n) người xấu tính
+bad mouth
+(v) lăng mạ, mắng mỏ, chửi bới, nói xấu
+bad news
+(n) người khó chơi, người hay quấy phiền
+baffle
+(v) làm trở ngại, làm sai lạc, làm cản trở, sự trở ngại
+baffy
+(n) gậy ngắn bằng gỗ đánh gôn
+bagasse
+(n) bã mía, bã củ cải sau khi ép lấy nước đường rồi
 bag
 (n) bao, túi, cặp xách
 baggage
 (n) hành lý
+bag cargo
+(n) hàng hóa được chở đi bằng bao hay túi
+baggy
+(adj) rộng lùng thùng, phồng ra
+bagpiper
+(n) người chơi kèn túi
+baguette
+(n) ổ bánh mì dài nhỏ của pháp
+bailey
+(n) tường ngoài bao bọc sân trong
+bail out
+(n) nhảy dù ra khỏi máy bay
+bait
+(v) trêu chọc, quấy nhiễu, mắc mồi
+baize
+(n) vải len tuyết dài
 bake
 (v) nung, nướng bằng lò
+baked
+(adj) mệt lữ
+baked beans
+(n) hạt đậu nấu chín đóng hộp với nước sốt cà chua
+baker
+(n) lò bánh mì, hiệu bánh mì, tủ sấy
+bakery
+(n người làm và bán bánh mì
+baksheesh
+(n) tiền thù lao, tiền thưởng
 balance
 (n) (v) cái cân; làm cho cân bằng, tương xứng
 ball
 (n) quả bóng
+balcony
+(n) bao lơn, bao công
+balding
+(adj) bị hói đầu
+bale
+(n) kiện, đóng thành kiện
+balk
+(v) làm thất bại, làm hỏng, làm nản chí, dung dằng, do dự
+baleful
+(adj) đầy tai họa, ác
+ballad
+(n) khúc balat, bài hát balat
+ballet
+(n) bale, múa kịch
+ballet dancer
+(n) vũ công ba lê
+ball game
+(n) môn chơi bóng
+ballistic
+(adj) đạn đạo học
+balloon
+(v) thả khí cầu, ngồi trên khí cầu, tăng giá, lên giá, căng lên
+ballot
+(n) lá phiếu, sự bỏ phiếu, bỏ phiếu kín, rút thăm
+bally
+(adj,adv) khỉ gió, chết tiệt
+balm
+(n) cây cho nhựa thơm, nhựa thơm
+balmy
+(adj) thơm mát, êm dịu
+bamboo
+(n) cây tre
+ban
+(v) cấm
+banana
+(n) quả chuối, cây chuối
 band
 (n) băng, đai, nẹp
 bandage
 (n) (v) dải băng; băng bó
 bank
 (n) bờ (sông…) , đê
+bane
+(n) nguyên nhân suy sụp, tai họa
+bang
+(v) đánh mạnh, đập mạnh
+bangle
+(n) vòng đeo cổ tay, cổ chân
+banish
+(v) đầy đi, trục xuất
 bar
 (n) quán bán rượu
 bargain
 (n) sự mặc cả, sự giao kèo mua bán
 barrier
 (n) đặt chướng ngại vật
+bagre
+(n) xà lan, thuyền lớn của ban chỉ huy
+bargee
+(n) người coi xà lan
+bark
+(n) vỏ cây
+barker
+(n) người rao hàng
+barley
+(n) lúa mạch, hạt lúa mạch
+barm
+(n) men
+barmy
+(adj) điên gàn, dở người
+baron
+(n) nam tước, nhà đại tư bản, vua, lãnh chúa
+baronage
+(n) đẳng cấp các nam tước
+baroness
+(n) nam tước phu nhân, nữ nam tước
+barony
+(n) tước nam, lãnh địa của nam tước
+barrck
+(n) trại lính, doanh trại, nhà to xấu xí
+barrage
+(n) vật chướng ngại, sự bắn chặn, hàng rào, đập nước
+barren
+(adj) cằn cỗi, không có quả, hiếm hoi, không sinh đẻ
+barrenness
+(n) sự bất thụ, sự vô sinh
+barrister
+(n) luật sự
+barrow
+(n) gò, đống
+basal
+(adj) cơ bản, cơ sở
 base
 (n) (v) cơ sở, cơ bản, nền móng; đặt tên, đặt cơ sở trên cái gì
 basic
